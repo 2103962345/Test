@@ -6,9 +6,6 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class Main {
-	static ArrayList<String> cities;
-	static Matrix matrix;
-
 	
 	//Read the information from the file and split it on array of strings
 	public static String[] lineToString(String str) {
