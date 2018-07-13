@@ -77,6 +77,6 @@ public class Main {
 	}
 	
 	public static void main (String[] args) throws IOException {
-		findMinCost("src\\Input.txt");
+		findMinCost("src\\MinimumCost\\Input.txt");
 	}
 }
